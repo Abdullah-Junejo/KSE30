@@ -1,4 +1,4 @@
-# KSE30
+# KSE30 Data Modelling, Statistics, ,and Analysis
 
 ### Create Database in Neo4J, Import Data Using Shown Querries in Report
 ### Create Required Projections Manually
